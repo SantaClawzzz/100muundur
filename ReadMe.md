@@ -2,6 +2,8 @@
 
 Seoses TalTech projekti raames. Esines probleeme, aga v0 töötas.
 
+![Image](muundur.png)
+
 * ROE1205S pinout on tagurpidi.
 * Üks elektrolüüt on ühtpidi, teine teistpidi.
 
